@@ -1,6 +1,6 @@
-# React Developer Portfolio
+# Learning React JS Library
 
-## Skills
+
 
 ### React Library:
 - **JSX (JavaScript XML):** Write HTML elements directly within JavaScript.
