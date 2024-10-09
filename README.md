@@ -1,8 +1,15 @@
-# React + Vite
+# React Jobs
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Learned React Library && Tailwind CSS Framework
+-JSX (JavaScript XML)
+-Components (Functional and Class-based)
+-Props and State
+-Event Handling
+-Lifecycle Methods (for Class Components)
+-Hooks (useState, useEffect, etc.)
+-Context API
+-React Router
+-Conditional Rendering
+-Lists and Keys
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
