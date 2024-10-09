@@ -21,9 +21,3 @@
 ### Tailwind CSS Framework:
 - Build responsive, utility-first, and modern UIs.
 
-## Projects
-(Showcase relevant React projects here)
-
----
-
-Feel free to adjust the projects section or add more personal details!
