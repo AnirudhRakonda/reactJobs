@@ -6,7 +6,7 @@ const JobPage = ({ deleteJob }) => {
     const navigate = useNavigate();
     const job = useLoaderData();
     const onDeleteClick = (jobId) => {
-        const confirm = window.confirm('Are you sure niggsu?')
+        const confirm = window.confirm('Are you sure?')
 
         if (!confirm) return;
         deleteJob(jobId);
